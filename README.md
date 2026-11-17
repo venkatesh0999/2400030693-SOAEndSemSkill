@@ -4,7 +4,6 @@
 This project is a Spring Boot backend application developed to manage tourist records for a hotel check-in system.
 
 It allows users to add, view, and update tourist details. Custom token validation is implemented to prevent unauthorized updates.
-
 ## Technologies Used
 - Java 17
 - Spring Boot
